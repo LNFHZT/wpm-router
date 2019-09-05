@@ -1,5 +1,5 @@
 # WPM-router
-wpm-router 沿用Vue-router 的调用方式，实现在微信小程序跳转页面的封装
+wpm-router 参考Vue-router 的调用方式，实现在微信小程序跳转页面的封装
 
 ## 安装
 ```
