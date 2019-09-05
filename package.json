@@ -1,0 +1,41 @@
+{
+  "name": "wpm-router",
+  "version": "0.0.1",
+  "description": "微信小程序 跳转方式封装",
+  "main": "./build/index.js",
+  "keywords": [
+    "router",
+    "vue",
+    "vue-router",
+    "微信",
+    "微信小程序",
+    "wpm",
+    "wpm-router",
+    "wx.switchTab",
+    "wx.reLaunch",
+    "wx.redirectTo",
+    "wx.navigateTo",
+    "wx.navigateBack",
+    "路由",
+    "跳转页面"
+  ],
+  "homepage": "https://github.com/LNFHZT/wpm-router",
+  "bugs": {
+    "url": "https://github.com/LNFHZT/wpm-router/issues",
+    "email": "LNFHZT@163.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npm run tswatch",
+    "tsc": "tsc",
+    "tswatch": "tsc -w"
+  },
+  "author": "vis",
+  "license": "ISC",
+  "dependencies": {
+    "qs": "^6.8.0"
+  },
+  "devDependencies": {
+    "@types/qs": "^6.5.3"
+  }
+}
